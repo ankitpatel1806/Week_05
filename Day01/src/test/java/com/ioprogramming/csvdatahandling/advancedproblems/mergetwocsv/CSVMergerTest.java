@@ -27,8 +27,6 @@ public class CSVMergerTest {
     @Test
     public void testMergeCSV() throws IOException {
         CSVMerger merger = new CSVMerger();
-
-        // Merge the CSV files
         merger.mergeAndWriteCSV(STUDENTS1_CSV, STUDENTS2_CSV, OUTPUT_CSV);
 
         List<String> lines = Files.readAllLines(Paths.get(OUTPUT_CSV));
@@ -42,29 +40,26 @@ public class CSVMergerTest {
 
     @Test
     public void testMergeEmptyFiles() throws IOException {
-        // Test merging with empty CSV files
         Files.write(Paths.get(STUDENTS1_CSV), "".getBytes());
         Files.write(Paths.get(STUDENTS2_CSV), "".getBytes());
 
         CSVMerger merger = new CSVMerger();
         merger.mergeAndWriteCSV(STUDENTS1_CSV, STUDENTS2_CSV, OUTPUT_CSV);
 
-        // Verify that the output file is empty or contains only the header
         List<String> lines = Files.readAllLines(Paths.get(OUTPUT_CSV));
-        assertEquals(1, lines.size()); // Only the header should be present
+        assertEquals(1, lines.size());
         assertEquals("ID,Name,Age,Marks,Grade", lines.get(0));
     }
 
     @Test
     public void testMergeWithMissingID() throws IOException {
-        // Test merging when one file has an ID that's missing in the other
         String students2CsvWithMissingIdContent = "ID,Marks,Grade\n1,85,A\n2,90,A+\n4,70,C\n";
         Files.write(Paths.get(STUDENTS2_CSV), students2CsvWithMissingIdContent.getBytes());
 
         CSVMerger merger = new CSVMerger();
         merger.mergeAndWriteCSV(STUDENTS1_CSV, STUDENTS2_CSV, OUTPUT_CSV);
 
-        // Verify the merged data and ensure that the missing ID (ID 4) in the first file does not appear in the output
+
         List<String> lines = Files.readAllLines(Paths.get(OUTPUT_CSV));
 
         assertEquals("ID,Name,Age,Marks,Grade", lines.get(0));
