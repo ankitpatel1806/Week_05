@@ -1,4 +1,4 @@
-package com.ioprogramming.csvdatahandling.basicproblems.studentcsvfilter;
+package com.ioprogramming.csvdatahandling.intermediateproblems.studentcsvfilter;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

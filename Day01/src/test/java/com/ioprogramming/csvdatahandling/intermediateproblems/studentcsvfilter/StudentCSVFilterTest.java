@@ -1,5 +1,6 @@
-package com.ioprogramming.csvdatahandling.basicproblems.studentcsvfilter;
+package com.ioprogramming.csvdatahandling.intermediateproblems.studentcsvfilter;
 
+import com.ioprogramming.csvdatahandling.intermediateproblems.studentcsvfilter.StudentCSVFilter;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
