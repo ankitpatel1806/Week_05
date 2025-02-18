@@ -1,8 +1,9 @@
 package com.ioprogramming.csvdatahandling.basicproblems.employeecsvreader;
 import java.io.*;
+import java.util.ArrayList;
 
 public class EmployeeCSVWriter {
-    public void writeCSVFile(String filePath) {
+    public void writeCSVFile(String filePath, ArrayList<String> modifiedData) {
         String[][] employees = {
                 {"1", "Ankit Patel", "HR", "55000"},
                 {"2", "Anand Soni", "Finance", "60000"},
