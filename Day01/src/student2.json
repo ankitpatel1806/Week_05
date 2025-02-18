@@ -1,0 +1,502 @@
+[
+    {
+        "ID": 1,
+        "Marks": 15,
+        "Grade": "D"
+    },
+    {
+        "ID": 2,
+        "Marks": 91,
+        "Grade": "A"
+    },
+    {
+        "ID": 3,
+        "Marks": 96,
+        "Grade": "F"
+    },
+    {
+        "ID": 4,
+        "Marks": 58,
+        "Grade": "F"
+    },
+    {
+        "ID": 5,
+        "Marks": 93,
+        "Grade": "A"
+    },
+    {
+        "ID": 6,
+        "Marks": 8,
+        "Grade": "F"
+    },
+    {
+        "ID": 7,
+        "Marks": 70,
+        "Grade": "A"
+    },
+    {
+        "ID": 8,
+        "Marks": 38,
+        "Grade": "D"
+    },
+    {
+        "ID": 9,
+        "Marks": 40,
+        "Grade": "B"
+    },
+    {
+        "ID": 10,
+        "Marks": 12,
+        "Grade": "F"
+    },
+    {
+        "ID": 11,
+        "Marks": 63,
+        "Grade": "D"
+    },
+    {
+        "ID": 12,
+        "Marks": 97,
+        "Grade": "D"
+    },
+    {
+        "ID": 13,
+        "Marks": 87,
+        "Grade": "C"
+    },
+    {
+        "ID": 14,
+        "Marks": 46,
+        "Grade": "F"
+    },
+    {
+        "ID": 15,
+        "Marks": 93,
+        "Grade": "F"
+    },
+    {
+        "ID": 16,
+        "Marks": 53,
+        "Grade": "D"
+    },
+    {
+        "ID": 17,
+        "Marks": 80,
+        "Grade": "D"
+    },
+    {
+        "ID": 18,
+        "Marks": 55,
+        "Grade": "C"
+    },
+    {
+        "ID": 19,
+        "Marks": 70,
+        "Grade": "F"
+    },
+    {
+        "ID": 20,
+        "Marks": 19,
+        "Grade": "D"
+    },
+    {
+        "ID": 21,
+        "Marks": 40,
+        "Grade": "C"
+    },
+    {
+        "ID": 22,
+        "Marks": 73,
+        "Grade": "B"
+    },
+    {
+        "ID": 23,
+        "Marks": 39,
+        "Grade": "A"
+    },
+    {
+        "ID": 24,
+        "Marks": 98,
+        "Grade": "B"
+    },
+    {
+        "ID": 25,
+        "Marks": 16,
+        "Grade": "B"
+    },
+    {
+        "ID": 26,
+        "Marks": 10,
+        "Grade": "F"
+    },
+    {
+        "ID": 27,
+        "Marks": 38,
+        "Grade": "A"
+    },
+    {
+        "ID": 28,
+        "Marks": 47,
+        "Grade": "B"
+    },
+    {
+        "ID": 29,
+        "Marks": 9,
+        "Grade": "A"
+    },
+    {
+        "ID": 30,
+        "Marks": 62,
+        "Grade": "C"
+    },
+    {
+        "ID": 31,
+        "Marks": 37,
+        "Grade": "B"
+    },
+    {
+        "ID": 32,
+        "Marks": 37,
+        "Grade": "F"
+    },
+    {
+        "ID": 33,
+        "Marks": 70,
+        "Grade": "C"
+    },
+    {
+        "ID": 34,
+        "Marks": 40,
+        "Grade": "C"
+    },
+    {
+        "ID": 35,
+        "Marks": 4,
+        "Grade": "C"
+    },
+    {
+        "ID": 36,
+        "Marks": 13,
+        "Grade": "C"
+    },
+    {
+        "ID": 37,
+        "Marks": 35,
+        "Grade": "F"
+    },
+    {
+        "ID": 38,
+        "Marks": 59,
+        "Grade": "A"
+    },
+    {
+        "ID": 39,
+        "Marks": 57,
+        "Grade": "C"
+    },
+    {
+        "ID": 40,
+        "Marks": 46,
+        "Grade": "C"
+    },
+    {
+        "ID": 41,
+        "Marks": 64,
+        "Grade": "F"
+    },
+    {
+        "ID": 42,
+        "Marks": 28,
+        "Grade": "C"
+    },
+    {
+        "ID": 43,
+        "Marks": 38,
+        "Grade": "B"
+    },
+    {
+        "ID": 44,
+        "Marks": 29,
+        "Grade": "A"
+    },
+    {
+        "ID": 45,
+        "Marks": 100,
+        "Grade": "C"
+    },
+    {
+        "ID": 46,
+        "Marks": 20,
+        "Grade": "F"
+    },
+    {
+        "ID": 47,
+        "Marks": 15,
+        "Grade": "D"
+    },
+    {
+        "ID": 48,
+        "Marks": 81,
+        "Grade": "B"
+    },
+    {
+        "ID": 49,
+        "Marks": 6,
+        "Grade": "C"
+    },
+    {
+        "ID": 50,
+        "Marks": 76,
+        "Grade": "C"
+    },
+    {
+        "ID": 51,
+        "Marks": 22,
+        "Grade": "B"
+    },
+    {
+        "ID": 52,
+        "Marks": 80,
+        "Grade": "F"
+    },
+    {
+        "ID": 53,
+        "Marks": 67,
+        "Grade": "D"
+    },
+    {
+        "ID": 54,
+        "Marks": 98,
+        "Grade": "A"
+    },
+    {
+        "ID": 55,
+        "Marks": 3,
+        "Grade": "B"
+    },
+    {
+        "ID": 56,
+        "Marks": 65,
+        "Grade": "D"
+    },
+    {
+        "ID": 57,
+        "Marks": 10,
+        "Grade": "C"
+    },
+    {
+        "ID": 58,
+        "Marks": 40,
+        "Grade": "B"
+    },
+    {
+        "ID": 59,
+        "Marks": 68,
+        "Grade": "B"
+    },
+    {
+        "ID": 60,
+        "Marks": 0,
+        "Grade": "F"
+    },
+    {
+        "ID": 61,
+        "Marks": 100,
+        "Grade": "C"
+    },
+    {
+        "ID": 62,
+        "Marks": 58,
+        "Grade": "F"
+    },
+    {
+        "ID": 63,
+        "Marks": 11,
+        "Grade": "B"
+    },
+    {
+        "ID": 64,
+        "Marks": 78,
+        "Grade": "A"
+    },
+    {
+        "ID": 65,
+        "Marks": 62,
+        "Grade": "A"
+    },
+    {
+        "ID": 66,
+        "Marks": 43,
+        "Grade": "C"
+    },
+    {
+        "ID": 67,
+        "Marks": 13,
+        "Grade": "B"
+    },
+    {
+        "ID": 68,
+        "Marks": 10,
+        "Grade": "B"
+    },
+    {
+        "ID": 69,
+        "Marks": 41,
+        "Grade": "B"
+    },
+    {
+        "ID": 70,
+        "Marks": 73,
+        "Grade": "C"
+    },
+    {
+        "ID": 71,
+        "Marks": 94,
+        "Grade": "C"
+    },
+    {
+        "ID": 72,
+        "Marks": 26,
+        "Grade": "B"
+    },
+    {
+        "ID": 73,
+        "Marks": 24,
+        "Grade": "C"
+    },
+    {
+        "ID": 74,
+        "Marks": 2,
+        "Grade": "B"
+    },
+    {
+        "ID": 75,
+        "Marks": 31,
+        "Grade": "D"
+    },
+    {
+        "ID": 76,
+        "Marks": 33,
+        "Grade": "D"
+    },
+    {
+        "ID": 77,
+        "Marks": 90,
+        "Grade": "B"
+    },
+    {
+        "ID": 78,
+        "Marks": 25,
+        "Grade": "F"
+    },
+    {
+        "ID": 79,
+        "Marks": 13,
+        "Grade": "A"
+    },
+    {
+        "ID": 80,
+        "Marks": 90,
+        "Grade": "A"
+    },
+    {
+        "ID": 81,
+        "Marks": 53,
+        "Grade": "C"
+    },
+    {
+        "ID": 82,
+        "Marks": 87,
+        "Grade": "C"
+    },
+    {
+        "ID": 83,
+        "Marks": 6,
+        "Grade": "A"
+    },
+    {
+        "ID": 84,
+        "Marks": 93,
+        "Grade": "D"
+    },
+    {
+        "ID": 85,
+        "Marks": 13,
+        "Grade": "B"
+    },
+    {
+        "ID": 86,
+        "Marks": 97,
+        "Grade": "F"
+    },
+    {
+        "ID": 87,
+        "Marks": 32,
+        "Grade": "B"
+    },
+    {
+        "ID": 88,
+        "Marks": 91,
+        "Grade": "D"
+    },
+    {
+        "ID": 89,
+        "Marks": 26,
+        "Grade": "C"
+    },
+    {
+        "ID": 90,
+        "Marks": 72,
+        "Grade": "B"
+    },
+    {
+        "ID": 91,
+        "Marks": 60,
+        "Grade": "C"
+    },
+    {
+        "ID": 92,
+        "Marks": 71,
+        "Grade": "C"
+    },
+    {
+        "ID": 93,
+        "Marks": 35,
+        "Grade": "D"
+    },
+    {
+        "ID": 94,
+        "Marks": 90,
+        "Grade": "F"
+    },
+    {
+        "ID": 95,
+        "Marks": 88,
+        "Grade": "A"
+    },
+    {
+        "ID": 96,
+        "Marks": 30,
+        "Grade": "B"
+    },
+    {
+        "ID": 97,
+        "Marks": 54,
+        "Grade": "C"
+    },
+    {
+        "ID": 98,
+        "Marks": 71,
+        "Grade": "D"
+    },
+    {
+        "ID": 99,
+        "Marks": 85,
+        "Grade": "F"
+    },
+    {
+        "ID": 100,
+        "Marks": 66,
+        "Grade": "F"
+    }
+]
