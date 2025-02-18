@@ -1,5 +1,4 @@
-ID,Name,Age
-1,John Doe,20
-2,Jane Smith,22
-1,John Doe,20
-3,Jim Brown,25
+Employee ID,Name,Department,Salary
+1,John Doe,Engineering,75000
+2,Jane Smith,Marketing,65000
+3,Jim Brown,Sales,70000
