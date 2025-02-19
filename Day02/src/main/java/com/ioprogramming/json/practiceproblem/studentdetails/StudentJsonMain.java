@@ -2,7 +2,7 @@ package com.ioprogramming.json.practiceproblem.studentdetails;
 
 import org.json.JSONObject;
 
-public class StudentJsonExample {
+public class StudentJsonMain {
 
     public static void main(String[] args) {
         String[] subjects = {"Java", "Python", "CyberSecurities"};
