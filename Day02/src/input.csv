@@ -1,0 +1,11 @@
+match_id,team1,team2,score_team1,score_team2,winner,player_of_match
+101,Mumbai Indians,Chennai Super Kings,178,182,Chennai Super Kings,MS Dhoni
+102,Royal Challengers Bangalore,Delhi Capitals,200,190,Royal Challengers Bangalore,Virat Kohli
+103,Kolkata Knight Riders,Sunrisers Hyderabad,150,145,Kolkata Knight Riders,Andre Russell
+104,Delhi Capitals,Rajasthan Royals,170,160,Delhi Capitals,Shreyas Iyer
+105,Mumbai Indians,Pune Warriors,190,180,Mumbai Indians,Rohit Sharma
+106,Kings XI Punjab,Royal Challengers Bangalore,160,170,Royal Challengers Bangalore,AB de Villiers
+107,Kolkata Knight Riders,Delhi Capitals,160,158,Kolkata Knight Riders,Dinesh Karthik
+108,Chennai Super Kings,Rajasthan Royals,180,170,Chennai Super Kings,Suresh Raina
+109,Royal Challengers Bangalore,Kings XI Punjab,190,185,Royal Challengers Bangalore,Chris Gayle
+110,Sunrisers Hyderabad,Mumbai Indians,140,145,Mumbai Indians,Kieron Pollard
