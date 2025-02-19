@@ -1,0 +1,9 @@
+{
+  "name": "Ankit",
+  "age": 30,
+  "email": "yugap1806@gmail.com",
+  "address": {
+    "street": "007 Land of Wano",
+    "city": "GrandLine"
+  }
+}
