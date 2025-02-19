@@ -19,6 +19,7 @@ public class ReadJsonFileTest {
             while (fields.hasNext()) {
                 Map.Entry<String, JsonNode> field = fields.next();
                 System.out.println("Key: " + field.getKey() + ", Value: " + field.getValue().asText());
+                System.out.println("");
             }
         } catch (IOException e) {
             e.printStackTrace();
