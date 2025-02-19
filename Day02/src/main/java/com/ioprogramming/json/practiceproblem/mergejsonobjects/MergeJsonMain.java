@@ -2,7 +2,7 @@ package com.ioprogramming.json.practiceproblem.mergejsonobjects;
 
 import org.json.JSONObject;
 
-public class MergeJsonExample {
+public class MergeJsonMain {
 
     public static void main(String[] args) {
         JSONObject json1 = new JSONObject();
